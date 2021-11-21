@@ -1,4 +1,4 @@
-# Super Hero HR
+# Searching And sorting profiles
 
 ## Description
 This project have a simple UI using flutter framework.  
