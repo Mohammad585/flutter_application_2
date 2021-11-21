@@ -2,7 +2,9 @@
 
 ## Description
  This project is dedicated to Sary Team. It has a simple UI to manage heros H.R department. 
+
 ---
+
 ### In order to run the project you need the following: 
 - Set up flutter enviroment
 - To Test Android link the simulator 
@@ -59,5 +61,11 @@ I used the following tutorials and materials:
 - [ **Rating Module** ](https://github.com/sarbagyastha/flutter_rating_bar)
 - [ **Animated Icons** ](https://github.com/ibhavikmakwana/FlutterPlayground/blob/master/lib/ui/animatedicons/AnimatedIcons.dart)
 
- 
+
+### **Note**
+The Rating Module and the animated icon are not my work, and all credits goas to the people who worked on them. The following are licenses to both:
+
+- [ **Rating Module License** ](flutter_application_2/licenses/Rating_bar_license) 
+- [ **Animated Icons** ](flutter_application_2/licenses/FlutterPlayground_LICENSE) 
+
  
