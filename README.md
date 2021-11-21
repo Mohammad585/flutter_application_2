@@ -1,4 +1,4 @@
-# Searching And sorting profiles
+# Searching And Sorting Profiles
 
 ## Description
 This project have a simple UI using flutter framework.  
