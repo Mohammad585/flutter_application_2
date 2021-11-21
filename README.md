@@ -65,7 +65,7 @@ I used the following tutorials and materials:
 ### **Note**
 - The Rating Module and the animated icon are not my work, and all credits goas to the people who worked on them. 
 - The rating cannot be updated, I couldn't find a way to update it since it is a final object.
-- Also, the search_widget is not my work, I used the one from  [filter_listview_example](https://github.com/JohannesMilke/filter_listview_example)
+- Also, the search_widget is not my work, I used the one from  [filter_listview_example](https://github.com/JohannesMilke/filter_listview_example), and most of my work inspired by Mr.JohannesMilke Work 
 
 ### The following are licenses:
 
