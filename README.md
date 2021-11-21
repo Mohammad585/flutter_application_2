@@ -1,7 +1,7 @@
 # Super Hero HR
 
 ## Description
-It has a simple UI to manage heros H.R department. 
+This project have a simple UI using flutter framework.  
 
 ---
 
