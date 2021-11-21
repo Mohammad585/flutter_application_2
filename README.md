@@ -1,7 +1,7 @@
 # Super Hero HR
 
 ## Description
- This project is dedicated to Sary Team. It has a simple UI to manage heros H.R department. 
+It has a simple UI to manage heros H.R department. 
 
 ---
 
