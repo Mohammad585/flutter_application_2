@@ -63,7 +63,10 @@ I used the following tutorials and materials:
 
 
 ### **Note**
-The Rating Module and the animated icon are not my work, and all credits goas to the people who worked on them. The following are licenses to both:
+- The Rating Module and the animated icon are not my work, and all credits goas to the people who worked on them. 
+- The rating cannot be updated, I couldn't find a way to update it since it is a final object.
+
+### The following are licenses:
 
 - [ **Rating Module License** ](flutter_application_2/licenses/Rating_bar_license) 
 - [ **Animated Icons** ](flutter_application_2/licenses/FlutterPlayground_LICENSE) 
