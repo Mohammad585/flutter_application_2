@@ -33,7 +33,7 @@ This project have a simple UI using flutter framework.
 </div>
 
 ## **Issue Faced**
-### The rating could not be fitted to All Hero page
+### The rating could not be fitted to All Hero page, so I moved it to the hero profile.
 
 <div align="center">
  
