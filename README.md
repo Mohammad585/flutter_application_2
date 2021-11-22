@@ -6,7 +6,7 @@ This project have a simple UI using flutter framework.
 ---
 
 ### In order to run the project you need the following: 
-- Set up flutter enviroment
+- Set up flutter enviroment for [Windows](https://docs.flutter.dev/get-started/install/windows) or [Macos](https://docs.flutter.dev/get-started/install/macos)
 - To Test Android link the simulator 
 - It is advisable to change the flutter the beta enviroment
 
